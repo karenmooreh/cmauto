@@ -1,0 +1,12 @@
+D:\工作\软件研发\Telupstream\ChinacSDKCore.NET\bin\Debug\net8.0\Chinac.SDK.Core.Net.deps.json
+D:\工作\软件研发\Telupstream\ChinacSDKCore.NET\bin\Debug\net8.0\Chinac.SDK.Core.Net.dll
+D:\工作\软件研发\Telupstream\ChinacSDKCore.NET\bin\Debug\net8.0\Chinac.SDK.Core.Net.pdb
+D:\工作\软件研发\Telupstream\ChinacSDKCore.NET\obj\Debug\net8.0\ChinacSDKCore.NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\工作\软件研发\Telupstream\ChinacSDKCore.NET\obj\Debug\net8.0\ChinacSDKCore.NET.AssemblyInfoInputs.cache
+D:\工作\软件研发\Telupstream\ChinacSDKCore.NET\obj\Debug\net8.0\ChinacSDKCore.NET.AssemblyInfo.cs
+D:\工作\软件研发\Telupstream\ChinacSDKCore.NET\obj\Debug\net8.0\ChinacSDKCore.NET.csproj.CoreCompileInputs.cache
+D:\工作\软件研发\Telupstream\ChinacSDKCore.NET\obj\Debug\net8.0\Chinac.SDK.Core.Net.dll
+D:\工作\软件研发\Telupstream\ChinacSDKCore.NET\obj\Debug\net8.0\refint\Chinac.SDK.Core.Net.dll
+D:\工作\软件研发\Telupstream\ChinacSDKCore.NET\obj\Debug\net8.0\Chinac.SDK.Core.Net.pdb
+D:\工作\软件研发\Telupstream\ChinacSDKCore.NET\obj\Debug\net8.0\ref\Chinac.SDK.Core.Net.dll
+D:\工作\软件研发\Telupstream\ChinacSDKCore.NET\obj\Debug\net8.0\ChinacSDKCore.NET.csproj.AssemblyReference.cache

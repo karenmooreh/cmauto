@@ -1,0 +1,14 @@
+D:\工作\软件研发\Telupstream\Telupstream\bin\Debug\net8.0\Telupstream.exe
+D:\工作\软件研发\Telupstream\Telupstream\bin\Debug\net8.0\Telupstream.deps.json
+D:\工作\软件研发\Telupstream\Telupstream\bin\Debug\net8.0\Telupstream.runtimeconfig.json
+D:\工作\软件研发\Telupstream\Telupstream\bin\Debug\net8.0\Telupstream.dll
+D:\工作\软件研发\Telupstream\Telupstream\bin\Debug\net8.0\Telupstream.pdb
+D:\工作\软件研发\Telupstream\Telupstream\obj\Debug\net8.0\Telupstream.GeneratedMSBuildEditorConfig.editorconfig
+D:\工作\软件研发\Telupstream\Telupstream\obj\Debug\net8.0\Telupstream.AssemblyInfoInputs.cache
+D:\工作\软件研发\Telupstream\Telupstream\obj\Debug\net8.0\Telupstream.AssemblyInfo.cs
+D:\工作\软件研发\Telupstream\Telupstream\obj\Debug\net8.0\Telupstream.csproj.CoreCompileInputs.cache
+D:\工作\软件研发\Telupstream\Telupstream\obj\Debug\net8.0\Telupstream.dll
+D:\工作\软件研发\Telupstream\Telupstream\obj\Debug\net8.0\refint\Telupstream.dll
+D:\工作\软件研发\Telupstream\Telupstream\obj\Debug\net8.0\Telupstream.pdb
+D:\工作\软件研发\Telupstream\Telupstream\obj\Debug\net8.0\Telupstream.genruntimeconfig.cache
+D:\工作\软件研发\Telupstream\Telupstream\obj\Debug\net8.0\ref\Telupstream.dll

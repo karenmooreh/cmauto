@@ -1,0 +1,51 @@
+{
+  "log": {
+    "logLevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks-in",
+      "protocol": "socks",
+      "listen": "127.0.0.1",
+      "port": 10000,
+      "settings": {
+        "udp": true
+      }
+    },
+    {
+      "tag": "http-in",
+      "protocol": "http",
+      "listen": "127.0.0.1",
+      "port": 20000
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "socks",
+      "settings": {
+        "servers": [
+          {
+            "address": "182.106.136.217",
+            "port": 40194,
+            "users": [
+              {
+                "user": "d4601923003",
+                "pass": "oazo33fw"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "routing": {
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [ "socks-in", "http-in" ],
+        "outboundTag": "proxy"
+      }
+    ]
+  }
+}

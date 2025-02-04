@@ -1,0 +1,2299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC212709-6AF0-4C03-AD9F-2CB5488DA0B4}|Telupstream\\Telupstream.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC212709-6AF0-4C03-AD9F-2CB5488DA0B4}|Telupstream\\Telupstream.csproj|solutionrelative:telupstream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\confs\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\confs\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|d:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\telupstream\\fslocalservice\\servcore.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\servcore.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\servcore.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\servcore.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\servcore.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\servcore.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\confs\\testphones1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\confs\\testphones1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\servcore.scrs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\servcore.scrs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\confs\\testphones2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\confs\\testphones2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\confs\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\confs\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\webapi\\controllers\\dynamiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\webapi\\controllers\\dynamiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\models\\result_taskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\models\\result_taskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\OpenNetworkPlatform\\WebAPIIntegratedService\\IntegratedWebAPIService.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\confs\\webapi.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\confs\\webapi.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\fslocalservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\fslocalservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\createcloudphoneadbresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\createcloudphoneadbresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\chinaccloudmobileclient.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\chinaccloudmobileclient.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\listcloudphoneresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\listcloudphoneresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\createcloudphoneadbrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\createcloudphoneadbrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\listcloudphonerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\listcloudphonerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\chinaccloudmobileclient.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\chinaccloudmobileclient.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B8B04B-1E89-4667-AA57-056296218760}|AlipayEasySDKTest\\AlipayEasySDKTest.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\alipayeasysdktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B8B04B-1E89-4667-AA57-056296218760}|AlipayEasySDKTest\\AlipayEasySDKTest.csproj|solutionrelative:alipayeasysdktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D567A827-5A8F-4F3A-B4EC-1A584BF3A953}|fsTradesQueryService\\fsTradesQueryService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fstradesqueryservice\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D567A827-5A8F-4F3A-B4EC-1A584BF3A953}|fsTradesQueryService\\fsTradesQueryService.csproj|solutionrelative:fstradesqueryservice\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D567A827-5A8F-4F3A-B4EC-1A584BF3A953}|fsTradesQueryService\\fsTradesQueryService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fstradesqueryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D567A827-5A8F-4F3A-B4EC-1A584BF3A953}|fsTradesQueryService\\fsTradesQueryService.csproj|solutionrelative:fstradesqueryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\getcmdapisignaturerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\getcmdapisignaturerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\clickhomeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\clickhomeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\clickhomerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\clickhomerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\startappresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\startappresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\startapprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\startapprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\closecloudphoneadbrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\closecloudphoneadbrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\reinstallcloudphonerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\reinstallcloudphonerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsclodservice\\servcore.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|solutionrelative:fsclodservice\\servcore.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\confs\\103.36.199.202-5555.last||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\confs\\103.36.199.202-5555.last||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\confs\\testphones3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\confs\\testphones3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DA5E2F-E50F-46C7-B511-9FC957563FBC}|fsFirstCauseEmulator\\fsFirstCauseEmulator.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsfirstcauseemulator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1DA5E2F-E50F-46C7-B511-9FC957563FBC}|fsFirstCauseEmulator\\fsFirstCauseEmulator.csproj|solutionrelative:fsfirstcauseemulator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DA5E2F-E50F-46C7-B511-9FC957563FBC}|fsFirstCauseEmulator\\fsFirstCauseEmulator.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsfirstcauseemulator\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DA5E2F-E50F-46C7-B511-9FC957563FBC}|fsFirstCauseEmulator\\fsFirstCauseEmulator.csproj|solutionrelative:fsfirstcauseemulator\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DA5E2F-E50F-46C7-B511-9FC957563FBC}|fsFirstCauseEmulator\\fsFirstCauseEmulator.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsfirstcauseemulator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DA5E2F-E50F-46C7-B511-9FC957563FBC}|fsFirstCauseEmulator\\fsFirstCauseEmulator.csproj|solutionrelative:fsfirstcauseemulator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsclodservice\\webapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|solutionrelative:fsclodservice\\webapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\confs\\webapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\confs\\webapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\adbservice\\adbmanagedservice.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\adbservice\\adbmanagedservice.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC474C0-C9B7-4A0A-B77F-328873FF81C0}|AdbClientTest\\AdbClientTest.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\adbclienttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC474C0-C9B7-4A0A-B77F-328873FF81C0}|AdbClientTest\\AdbClientTest.csproj|solutionrelative:adbclienttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745E1A77-3E79-43D1-904D-F9A80B4C738E}|ChinacSDKTest\\ChinacSDKTest.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745E1A77-3E79-43D1-904D-F9A80B4C738E}|ChinacSDKTest\\ChinacSDKTest.csproj|solutionrelative:chinacsdktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamapi\\servcore.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|solutionrelative:telupstreamapi\\servcore.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\servicecore.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\servicecore.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\reinstallcloudphoneresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\reinstallcloudphoneresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\baserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\baserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\listcloudphonecustomimageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\listcloudphonecustomimageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\listcloudphonecustomimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\listcloudphonecustomimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\screenshotresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\screenshotresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\screenshotrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\screenshotrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\stopappresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\stopappresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\stopapprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\stopapprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\PublicSecuritySolutions\\CDNDetectNodeWeb\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\getconnectstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\getconnectstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\basedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\basedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\getconnectstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\getconnectstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\getcmdapisignatureresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\getcmdapisignatureresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\argumentattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\argumentattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\globalpresettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\globalpresettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD907EBC-C69B-4E50-825F-448F2ABFD98C}|..\\PublicSecuritySolutions\\P03\\P03.csproj|d:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\publicsecuritysolutions\\p03\\jiema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamapi\\common\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|solutionrelative:telupstreamapi\\common\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\sendshellcmdresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\sendshellcmdresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\sendshellcmdrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\sendshellcmdrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\setcloudphoneadbwhiteipresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\setcloudphoneadbwhiteipresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\setcloudphoneadbwhiteiprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\setcloudphoneadbwhiteiprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\closecloudphoneadbresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\closecloudphoneadbresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\listcloudphoneadbwhiteipresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\listcloudphoneadbwhiteipresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\listcloudphoneadbwhiteiprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\listcloudphoneadbwhiteiprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\describecloudphoneresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\describecloudphoneresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\models\\describecloudphonerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\models\\describecloudphonerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D4AB5A-F789-4189-9E4B-83BE568C951B}|JiemaGUIToolTest\\JiemaGUIToolTest.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\jiemaguitooltest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18D4AB5A-F789-4189-9E4B-83BE568C951B}|JiemaGUIToolTest\\JiemaGUIToolTest.csproj|solutionrelative:jiemaguitooltest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D4AB5A-F789-4189-9E4B-83BE568C951B}|JiemaGUIToolTest\\JiemaGUIToolTest.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\jiemaguitooltest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D4AB5A-F789-4189-9E4B-83BE568C951B}|JiemaGUIToolTest\\JiemaGUIToolTest.csproj|solutionrelative:jiemaguitooltest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\confs\\webapi.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\confs\\webapi.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\confs\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\confs\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D4AB5A-F789-4189-9E4B-83BE568C951B}|JiemaGUIToolTest\\JiemaGUIToolTest.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\jiemaguitooltest\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D4AB5A-F789-4189-9E4B-83BE568C951B}|JiemaGUIToolTest\\JiemaGUIToolTest.csproj|solutionrelative:jiemaguitooltest\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\chinaccloudmobileclient.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\chinaccloudmobileclient.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\chinacsdkcore.net\\chinaczones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE45CE6-A98E-4EC8-B55F-80B330B2F350}|ChinacSDKCore.NET\\ChinacSDKCore.NET.csproj|solutionrelative:chinacsdkcore.net\\chinaczones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsclodservice\\webapi\\controllers\\localcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|solutionrelative:fsclodservice\\webapi\\controllers\\localcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fslocalservice\\models\\result_freshbillings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A05AF3-E0BA-42D8-9BF7-6F2D72C67A4B}|fsLocalService\\fsLocalService.csproj|solutionrelative:fslocalservice\\models\\result_freshbillings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD907EBC-C69B-4E50-825F-448F2ABFD98C}|..\\PublicSecuritySolutions\\P03\\P03.csproj|d:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\publicsecuritysolutions\\p03\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsclodservice\\servcore.def.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|solutionrelative:fsclodservice\\servcore.def.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\servicecore.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\servicecore.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsclodservice\\webapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|solutionrelative:fsclodservice\\webapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsclodservice\\servcore.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|solutionrelative:fsclodservice\\servcore.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsclodservice\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|solutionrelative:fsclodservice\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsclodservice\\webapi\\models\\models_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|solutionrelative:fsclodservice\\webapi\\models\\models_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsclodservice\\webapi\\models\\models_notify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|solutionrelative:fsclodservice\\webapi\\models\\models_notify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamapi\\servcore.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|solutionrelative:telupstreamapi\\servcore.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\confs\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\confs\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamapi\\webapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|solutionrelative:telupstreamapi\\webapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamapi\\confs\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|solutionrelative:telupstreamapi\\confs\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|solutionrelative:telupstreamapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsclodservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|solutionrelative:fsclodservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsclodservice\\fsclodservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|solutionrelative:fsclodservice\\fsclodservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\telupstreamdmuapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\telupstreamdmuapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsclodservice\\confs\\webapi.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01F76357-F455-4C86-81B8-942EDD19E4C9}|fsClodService\\fsClodService.csproj|solutionrelative:fsclodservice\\confs\\webapi.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\adbservice\\adbmanagedservice.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\adbservice\\adbmanagedservice.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\adbservice\\adbmanagedservice.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\adbservice\\adbmanagedservice.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\logger\\logger.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\logger\\logger.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\servicecore.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\servicecore.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\logger\\logger.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\logger\\logger.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\logger\\logger.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\logger\\logger.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\logs.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|solutionrelative:telupstreamdmui\\src\\pages\\logs.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\journals.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|solutionrelative:telupstreamdmui\\src\\pages\\journals.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\devices.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|solutionrelative:telupstreamdmui\\src\\pages\\devices.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\components\\globalsettings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|solutionrelative:telupstreamdmui\\src\\components\\globalsettings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\webapi\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\webapi\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\webapi\\models\\models_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\webapi\\models\\models_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\webapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\webapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\webapi\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\webapi\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\webapi\\models\\models_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\webapi\\models\\models_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\efcore\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\efcore\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\efcore\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\efcore\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\efcore\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\efcore\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\efcore\\contexts\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\efcore\\contexts\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\login.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|solutionrelative:telupstreamdmui\\src\\pages\\login.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\headmenus.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|solutionrelative:telupstreamdmui\\src\\pages\\headmenus.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|solutionrelative:telupstreamdmui\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\webapi\\models\\webapi_result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\webapi\\models\\webapi_result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\webapi\\models\\models_auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\webapi\\models\\models_auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\webapi\\models\\models_device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\webapi\\models\\models_device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\common\\securityprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\common\\securityprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamapi\\servcore.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|solutionrelative:telupstreamapi\\servcore.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmuapi\\webapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25735B-42D5-4A46-9362-327B2CA67987}|TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj|solutionrelative:telupstreamdmuapi\\webapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamapi\\confs\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239927F9-EBA9-4009-BECC-E54754A06F0C}|TelupstreamAPI\\TelupstreamAPI.csproj|solutionrelative:telupstreamapi\\confs\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\console.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|solutionrelative:telupstreamdmui\\src\\pages\\console.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\components\\fstorage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|solutionrelative:telupstreamdmui\\src\\components\\fstorage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\sidemenus.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|solutionrelative:telupstreamdmui\\src\\pages\\sidemenus.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\profile.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|solutionrelative:telupstreamdmui\\src\\pages\\profile.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\statistics.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|solutionrelative:telupstreamdmui\\src\\pages\\statistics.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\assets\\common.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|solutionrelative:telupstreamdmui\\src\\assets\\common.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|solutionrelative:telupstreamdmui\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4587FC1C-D88B-4574-B75F-096AB74707FD}|TelupstreamDMUI\\telupstreamdmui.esproj|solutionrelative:telupstreamdmui\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "settings.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\confs\\settings.cs",
+              "RelativeDocumentMoniker": "fsLocalService\\confs\\settings.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\confs\\settings.cs",
+              "RelativeToolTip": "fsLocalService\\confs\\settings.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAASwBgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:41:08.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "testphones1.txt",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\confs\\testphones1.txt",
+              "RelativeDocumentMoniker": "fsLocalService\\confs\\testphones1.txt",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\confs\\testphones1.txt",
+              "RelativeToolTip": "fsLocalService\\confs\\testphones1.txt",
+              "ViewState": "AQIAAEkLAAAAAAAAAAAAAKULAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-30T09:09:51.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "settings.json",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\confs\\settings.json",
+              "RelativeDocumentMoniker": "fsLocalService\\confs\\settings.json",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\confs\\settings.json",
+              "RelativeToolTip": "fsLocalService\\confs\\settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T05:41:21.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServCore.main.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\ServCore.main.cs",
+              "RelativeDocumentMoniker": "fsLocalService\\ServCore.main.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\ServCore.main.cs",
+              "RelativeToolTip": "fsLocalService\\ServCore.main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:37:47.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DynamicController.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\WebAPI\\Controllers\\DynamicController.cs",
+              "RelativeDocumentMoniker": "fsLocalService\\WebAPI\\Controllers\\DynamicController.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\WebAPI\\Controllers\\DynamicController.cs",
+              "RelativeToolTip": "fsLocalService\\WebAPI\\Controllers\\DynamicController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:18:05.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServCore.defs.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\ServCore.defs.cs",
+              "RelativeDocumentMoniker": "fsLocalService\\ServCore.defs.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\ServCore.defs.cs",
+              "RelativeToolTip": "fsLocalService\\ServCore.defs.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:38:53.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServCore.scrs.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\ServCore.scrs.cs",
+              "RelativeDocumentMoniker": "fsLocalService\\ServCore.scrs.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\ServCore.scrs.cs",
+              "RelativeToolTip": "fsLocalService\\ServCore.scrs.cs",
+              "ViewState": "AQIAAHUFAAAAAAAAAAAAAJ8FAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:37:06.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "log.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\models\\log.cs",
+              "RelativeDocumentMoniker": "fsLocalService\\models\\log.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\models\\log.cs",
+              "RelativeToolTip": "fsLocalService\\models\\log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:36:48.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\Telupstream\\Program.cs",
+              "RelativeDocumentMoniker": "Telupstream\\Program.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\Telupstream\\Program.cs",
+              "RelativeToolTip": "Telupstream\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:33:41.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServCore.imp.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\ServCore.imp.cs",
+              "RelativeDocumentMoniker": "fsLocalService\\ServCore.imp.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\ServCore.imp.cs",
+              "RelativeToolTip": "fsLocalService\\ServCore.imp.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:38:16.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "testphones2.txt",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\confs\\testphones2.txt",
+              "RelativeDocumentMoniker": "fsLocalService\\confs\\testphones2.txt",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\confs\\testphones2.txt",
+              "RelativeToolTip": "fsLocalService\\confs\\testphones2.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-30T09:10:54.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "result_taskresponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\models\\result_taskresponse.cs",
+              "RelativeDocumentMoniker": "fsLocalService\\models\\result_taskresponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\models\\result_taskresponse.cs",
+              "RelativeToolTip": "fsLocalService\\models\\result_taskresponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:28:12.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "task.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\models\\task.cs",
+              "RelativeDocumentMoniker": "fsLocalService\\models\\task.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\models\\task.cs",
+              "RelativeToolTip": "fsLocalService\\models\\task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:20:18.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "webapi.json",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\confs\\webapi.json",
+              "RelativeDocumentMoniker": "fsLocalService\\confs\\webapi.json",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\confs\\webapi.json",
+              "RelativeToolTip": "fsLocalService\\confs\\webapi.json",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T03:11:35.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ListCloudPhoneResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ListCloudPhoneResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\ListCloudPhoneResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ListCloudPhoneResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\ListCloudPhoneResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:11:09.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateCloudPhoneAdbResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\CreateCloudPhoneAdbResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\CreateCloudPhoneAdbResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\CreateCloudPhoneAdbResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\CreateCloudPhoneAdbResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:17:39.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fsLocalService.csproj",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\fsLocalService.csproj",
+              "RelativeDocumentMoniker": "fsLocalService\\fsLocalService.csproj",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\fsLocalService.csproj",
+              "RelativeToolTip": "fsLocalService\\fsLocalService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T03:13:44.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IntegratedWebAPIService.main.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\OpenNetworkPlatform\\WebAPIIntegratedService\\IntegratedWebAPIService.main.cs",
+              "RelativeDocumentMoniker": "..\\OpenNetworkPlatform\\WebAPIIntegratedService\\IntegratedWebAPIService.main.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\OpenNetworkPlatform\\WebAPIIntegratedService\\IntegratedWebAPIService.main.cs",
+              "RelativeToolTip": "..\\OpenNetworkPlatform\\WebAPIIntegratedService\\IntegratedWebAPIService.main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:11:18.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ListCloudPhoneRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ListCloudPhoneRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\ListCloudPhoneRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ListCloudPhoneRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\ListCloudPhoneRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:10:50.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateCloudPhoneAdbRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\CreateCloudPhoneAdbRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\CreateCloudPhoneAdbRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\CreateCloudPhoneAdbRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\CreateCloudPhoneAdbRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:17:29.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChinacCloudMobileClient.imp.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\ChinacCloudMobileClient.imp.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\ChinacCloudMobileClient.imp.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\ChinacCloudMobileClient.imp.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\ChinacCloudMobileClient.imp.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwEMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:36:25.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChinacCloudMobileClient.main.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\ChinacCloudMobileClient.main.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\ChinacCloudMobileClient.main.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\ChinacCloudMobileClient.main.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\ChinacCloudMobileClient.main.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAtwBgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:35:45.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\AlipayEasySDKTest\\Program.cs",
+              "RelativeDocumentMoniker": "AlipayEasySDKTest\\Program.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\AlipayEasySDKTest\\Program.cs",
+              "RelativeToolTip": "AlipayEasySDKTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:46:48.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsTradesQueryService\\Program.cs",
+              "RelativeDocumentMoniker": "fsTradesQueryService\\Program.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsTradesQueryService\\Program.cs",
+              "RelativeToolTip": "fsTradesQueryService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:29:58.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Http.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsTradesQueryService\\Http.cs",
+              "RelativeDocumentMoniker": "fsTradesQueryService\\Http.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsTradesQueryService\\Http.cs",
+              "RelativeToolTip": "fsTradesQueryService\\Http.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:31:20.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetCmdApiSignatureRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\GetCmdApiSignatureRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\GetCmdApiSignatureRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\GetCmdApiSignatureRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\GetCmdApiSignatureRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:38:27.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Http.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\Http.cs",
+              "RelativeDocumentMoniker": "fsLocalService\\Http.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\Http.cs",
+              "RelativeToolTip": "fsLocalService\\Http.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:25:25.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Http.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Http.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Http.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Http.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Http.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAtwEQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:22:10.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClickHomeRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ClickHomeRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\ClickHomeRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ClickHomeRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\ClickHomeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:21:05.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClickHomeResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ClickHomeResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\ClickHomeResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ClickHomeResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\ClickHomeResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:21:27.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StartAppResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\StartAppResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\StartAppResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\StartAppResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\StartAppResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:53:09.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StartAppRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\StartAppRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\StartAppRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\StartAppRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\StartAppRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:52:58.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CloseCloudPhoneAdbRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\CloseCloudPhoneAdbRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\CloseCloudPhoneAdbRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\CloseCloudPhoneAdbRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\CloseCloudPhoneAdbRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:19:29.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReinstallCloudPhoneRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ReinstallCloudPhoneRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\ReinstallCloudPhoneRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ReinstallCloudPhoneRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\ReinstallCloudPhoneRequest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAtwBIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:28:48.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\WebAPI\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "fsClodService\\WebAPI\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\WebAPI\\Controllers\\TestController.cs",
+              "RelativeToolTip": "fsClodService\\WebAPI\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T02:07:21.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "103.36.199.202-5555.last",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\confs\\103.36.199.202-5555.last",
+              "RelativeDocumentMoniker": "fsLocalService\\confs\\103.36.199.202-5555.last",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\confs\\103.36.199.202-5555.last",
+              "RelativeToolTip": "fsLocalService\\confs\\103.36.199.202-5555.last",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-31T09:29:35.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "testphones3.txt",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\confs\\testphones3.txt",
+              "RelativeDocumentMoniker": "fsLocalService\\confs\\testphones3.txt",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\confs\\testphones3.txt",
+              "RelativeToolTip": "fsLocalService\\confs\\testphones3.txt",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-30T09:12:27.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ServCore.imp.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\ServCore.imp.cs",
+              "RelativeDocumentMoniker": "fsClodService\\ServCore.imp.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\ServCore.imp.cs",
+              "RelativeToolTip": "fsClodService\\ServCore.imp.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAuwHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:25:54.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Http.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsFirstCauseEmulator\\Http.cs",
+              "RelativeDocumentMoniker": "fsFirstCauseEmulator\\Http.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsFirstCauseEmulator\\Http.cs",
+              "RelativeToolTip": "fsFirstCauseEmulator\\Http.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAtwCoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:55:08.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsFirstCauseEmulator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "fsFirstCauseEmulator\\MainWindow.xaml",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsFirstCauseEmulator\\MainWindow.xaml",
+              "RelativeToolTip": "fsFirstCauseEmulator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-29T09:34:31.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsFirstCauseEmulator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "fsFirstCauseEmulator\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsFirstCauseEmulator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "fsFirstCauseEmulator\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswDwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:34:31.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "webapi.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\confs\\webapi.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\confs\\webapi.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\confs\\webapi.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\confs\\webapi.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:47:19.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AdbManagedService.main.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\AdbService\\AdbManagedService.main.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\AdbService\\AdbManagedService.main.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\AdbService\\AdbManagedService.main.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\AdbService\\AdbManagedService.main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:00:44.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "DescribeCloudPhoneResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\DescribeCloudPhoneResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\DescribeCloudPhoneResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\DescribeCloudPhoneResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\DescribeCloudPhoneResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:14:54.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DescribeCloudPhoneRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\DescribeCloudPhoneRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\DescribeCloudPhoneRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\DescribeCloudPhoneRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\DescribeCloudPhoneRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:14:42.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\JiemaGUIToolTest\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "JiemaGUIToolTest\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\JiemaGUIToolTest\\MainWindow.xaml.cs",
+              "RelativeToolTip": "JiemaGUIToolTest\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T06:54:25.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\JiemaGUIToolTest\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "JiemaGUIToolTest\\MainWindow.xaml",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\JiemaGUIToolTest\\MainWindow.xaml",
+              "RelativeToolTip": "JiemaGUIToolTest\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-01T06:54:26.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\AdbClientTest\\Program.cs",
+              "RelativeDocumentMoniker": "AdbClientTest\\Program.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\AdbClientTest\\Program.cs",
+              "RelativeToolTip": "AdbClientTest\\Program.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAswCcBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:30:43.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKTest\\Program.cs",
+              "RelativeDocumentMoniker": "ChinacSDKTest\\Program.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKTest\\Program.cs",
+              "RelativeToolTip": "ChinacSDKTest\\Program.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:28:18.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\BaseResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\BaseResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\BaseResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:51:12.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ServCore.imp.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\ServCore.imp.cs",
+              "RelativeDocumentMoniker": "TelupstreamAPI\\ServCore.imp.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\ServCore.imp.cs",
+              "RelativeToolTip": "TelupstreamAPI\\ServCore.imp.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:38:40.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ServiceCore.imp.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\ServiceCore.imp.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\ServiceCore.imp.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\ServiceCore.imp.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\ServiceCore.imp.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:03:53.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ReinstallCloudPhoneResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ReinstallCloudPhoneResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\ReinstallCloudPhoneResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ReinstallCloudPhoneResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\ReinstallCloudPhoneResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:29:03.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BaseRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\BaseRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\BaseRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\BaseRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\BaseRequest.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:06:56.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ListCloudPhoneCustomImageResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ListCloudPhoneCustomImageResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\ListCloudPhoneCustomImageResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ListCloudPhoneCustomImageResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\ListCloudPhoneCustomImageResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:57:34.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ListCloudPhoneCustomImageRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ListCloudPhoneCustomImageRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\ListCloudPhoneCustomImageRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ListCloudPhoneCustomImageRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\ListCloudPhoneCustomImageRequest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:57:21.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ScreenShotResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ScreenShotResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\ScreenShotResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ScreenShotResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\ScreenShotResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:43:52.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ScreenShotRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ScreenShotRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\ScreenShotRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ScreenShotRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\ScreenShotRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:43:40.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "StopAppResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\StopAppResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\StopAppResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\StopAppResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\StopAppResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:54:57.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "StopAppRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\StopAppRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\StopAppRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\StopAppRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\StopAppRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:54:45.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BaseData.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\BaseData.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\BaseData.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\BaseData.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\BaseData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:55:17.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GetConnectStatusRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\GetConnectStatusRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\GetConnectStatusRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\GetConnectStatusRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\GetConnectStatusRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:41:30.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\PublicSecuritySolutions\\CDNDetectNodeWeb\\index.html",
+              "RelativeDocumentMoniker": "..\\PublicSecuritySolutions\\CDNDetectNodeWeb\\index.html",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\PublicSecuritySolutions\\CDNDetectNodeWeb\\index.html",
+              "RelativeToolTip": "..\\PublicSecuritySolutions\\CDNDetectNodeWeb\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-08T06:03:41.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GetConnectStatusResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\GetConnectStatusResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\GetConnectStatusResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\GetConnectStatusResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\GetConnectStatusResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:41:40.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "GetCmdApiSignatureResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\GetCmdApiSignatureResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\GetCmdApiSignatureResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\GetCmdApiSignatureResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\GetCmdApiSignatureResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:38:40.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ArgumentAttribute.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ArgumentAttribute.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\ArgumentAttribute.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ArgumentAttribute.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\ArgumentAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T06:26:13.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "GlobalPresettings.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\GlobalPresettings.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\GlobalPresettings.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\GlobalPresettings.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\GlobalPresettings.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADgvxUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T05:59:59.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Http.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\Common\\Http.cs",
+              "RelativeDocumentMoniker": "TelupstreamAPI\\Common\\Http.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\Common\\Http.cs",
+              "RelativeToolTip": "TelupstreamAPI\\Common\\Http.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:00:56.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Jiema.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\PublicSecuritySolutions\\P03\\Jiema.cs",
+              "RelativeDocumentMoniker": "..\\PublicSecuritySolutions\\P03\\Jiema.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\PublicSecuritySolutions\\P03\\Jiema.cs",
+              "RelativeToolTip": "..\\PublicSecuritySolutions\\P03\\Jiema.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAADwv58AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:36:31.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SendShellCmdResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\SendShellCmdResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\SendShellCmdResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\SendShellCmdResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\SendShellCmdResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:46:51.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SendShellCmdRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\SendShellCmdRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\SendShellCmdRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\SendShellCmdRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\SendShellCmdRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:46:41.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SetCloudPhoneAdbWhiteIpResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\SetCloudPhoneAdbWhiteIpResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\SetCloudPhoneAdbWhiteIpResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\SetCloudPhoneAdbWhiteIpResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\SetCloudPhoneAdbWhiteIpResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:25:34.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SetCloudPhoneAdbWhiteIpRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\SetCloudPhoneAdbWhiteIpRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\SetCloudPhoneAdbWhiteIpRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\SetCloudPhoneAdbWhiteIpRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\SetCloudPhoneAdbWhiteIpRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:25:22.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CloseCloudPhoneAdbResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\CloseCloudPhoneAdbResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\CloseCloudPhoneAdbResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\CloseCloudPhoneAdbResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\CloseCloudPhoneAdbResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:19:40.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ListCloudPhoneAdbWhiteIpResponse.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ListCloudPhoneAdbWhiteIpResponse.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\ListCloudPhoneAdbWhiteIpResponse.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ListCloudPhoneAdbWhiteIpResponse.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\ListCloudPhoneAdbWhiteIpResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:22:32.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ListCloudPhoneAdbWhiteIpRequest.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ListCloudPhoneAdbWhiteIpRequest.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\Models\\ListCloudPhoneAdbWhiteIpRequest.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\Models\\ListCloudPhoneAdbWhiteIpRequest.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\Models\\ListCloudPhoneAdbWhiteIpRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:22:25.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\Program.cs",
+              "RelativeDocumentMoniker": "fsLocalService\\Program.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\Program.cs",
+              "RelativeToolTip": "fsLocalService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:07:57.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "result_freshbillings.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\models\\result_freshbillings.cs",
+              "RelativeDocumentMoniker": "fsLocalService\\models\\result_freshbillings.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsLocalService\\models\\result_freshbillings.cs",
+              "RelativeToolTip": "fsLocalService\\models\\result_freshbillings.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvxgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:14:25.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "LocalController.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\WebAPI\\Controllers\\LocalController.cs",
+              "RelativeDocumentMoniker": "fsClodService\\WebAPI\\Controllers\\LocalController.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\WebAPI\\Controllers\\LocalController.cs",
+              "RelativeToolTip": "fsClodService\\WebAPI\\Controllers\\LocalController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:42:44.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "webapi.json",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\confs\\webapi.json",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\confs\\webapi.json",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\confs\\webapi.json",
+              "RelativeToolTip": "TelupstreamDMUAPI\\confs\\webapi.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T02:02:37.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "settings.json",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\confs\\settings.json",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\confs\\settings.json",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\confs\\settings.json",
+              "RelativeToolTip": "TelupstreamDMUAPI\\confs\\settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T03:15:36.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Http.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\JiemaGUIToolTest\\Http.cs",
+              "RelativeDocumentMoniker": "JiemaGUIToolTest\\Http.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\JiemaGUIToolTest\\Http.cs",
+              "RelativeToolTip": "JiemaGUIToolTest\\Http.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwA8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T07:05:07.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ChinacZones.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\ChinacZones.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\ChinacZones.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\ChinacZones.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\ChinacZones.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:18:17.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ChinacCloudMobileClient.defs.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\ChinacCloudMobileClient.defs.cs",
+              "RelativeDocumentMoniker": "ChinacSDKCore.NET\\ChinacCloudMobileClient.defs.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\ChinacSDKCore.NET\\ChinacCloudMobileClient.defs.cs",
+              "RelativeToolTip": "ChinacSDKCore.NET\\ChinacCloudMobileClient.defs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:36:58.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ServCore.def.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\ServCore.def.cs",
+              "RelativeDocumentMoniker": "fsClodService\\ServCore.def.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\ServCore.def.cs",
+              "RelativeToolTip": "fsClodService\\ServCore.def.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:25:44.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\WebAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "fsClodService\\WebAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\WebAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "fsClodService\\WebAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwBUAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:33:49.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "models_notify.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\WebAPI\\Models\\models_notify.cs",
+              "RelativeDocumentMoniker": "fsClodService\\WebAPI\\Models\\models_notify.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\WebAPI\\Models\\models_notify.cs",
+              "RelativeToolTip": "fsClodService\\WebAPI\\Models\\models_notify.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:57:19.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Http.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\Http.cs",
+              "RelativeDocumentMoniker": "fsClodService\\Http.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\Http.cs",
+              "RelativeToolTip": "fsClodService\\Http.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:01:12.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\PublicSecuritySolutions\\P03\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\PublicSecuritySolutions\\P03\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\PublicSecuritySolutions\\P03\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\PublicSecuritySolutions\\P03\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAFYBAAAAAAAAAAAewFsBAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:37:05.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ServiceCore.defs.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\ServiceCore.defs.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\ServiceCore.defs.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\ServiceCore.defs.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\ServiceCore.defs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:04:08.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "models_task.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\WebAPI\\Models\\models_task.cs",
+              "RelativeDocumentMoniker": "fsClodService\\WebAPI\\Models\\models_task.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\WebAPI\\Models\\models_task.cs",
+              "RelativeToolTip": "fsClodService\\WebAPI\\Models\\models_task.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:38:56.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ServCore.main.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\ServCore.main.cs",
+              "RelativeDocumentMoniker": "fsClodService\\ServCore.main.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\ServCore.main.cs",
+              "RelativeToolTip": "fsClodService\\ServCore.main.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:25:34.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ServCore.main.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\ServCore.main.cs",
+              "RelativeDocumentMoniker": "TelupstreamAPI\\ServCore.main.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\ServCore.main.cs",
+              "RelativeToolTip": "TelupstreamAPI\\ServCore.main.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvzYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T02:30:14.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "settings.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\confs\\settings.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\confs\\settings.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\confs\\settings.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\confs\\settings.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T03:16:02.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\WebAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TelupstreamAPI\\WebAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\WebAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TelupstreamAPI\\WebAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvzAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:38:59.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "settings.json",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\confs\\settings.json",
+              "RelativeDocumentMoniker": "TelupstreamAPI\\confs\\settings.json",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\confs\\settings.json",
+              "RelativeToolTip": "TelupstreamAPI\\confs\\settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T02:34:27.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TelupstreamAPI\\Program.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\Program.cs",
+              "RelativeToolTip": "TelupstreamAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T02:29:29.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "TelupstreamDMUAPI.csproj",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj",
+              "RelativeToolTip": "TelupstreamDMUAPI\\TelupstreamDMUAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T01:33:55.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "fsClodService.csproj",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\fsClodService.csproj",
+              "RelativeDocumentMoniker": "fsClodService\\fsClodService.csproj",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\fsClodService.csproj",
+              "RelativeToolTip": "fsClodService\\fsClodService.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T01:34:12.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\Program.cs",
+              "RelativeDocumentMoniker": "fsClodService\\Program.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\Program.cs",
+              "RelativeToolTip": "fsClodService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:07:24.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "webapi.json",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\confs\\webapi.json",
+              "RelativeDocumentMoniker": "fsClodService\\confs\\webapi.json",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\fsClodService\\confs\\webapi.json",
+              "RelativeToolTip": "fsClodService\\confs\\webapi.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T01:09:07.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "AdbManagedService.imp.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\AdbService\\AdbManagedService.imp.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\AdbService\\AdbManagedService.imp.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\AdbService\\AdbManagedService.imp.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\AdbService\\AdbManagedService.imp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:01:11.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "journals.vue",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\journals.vue",
+              "RelativeDocumentMoniker": "telupstreamdmui\\src\\pages\\journals.vue",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\journals.vue",
+              "RelativeToolTip": "telupstreamdmui\\src\\pages\\journals.vue",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-12-25T05:53:57.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "AdbManagedService.defs.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\AdbService\\AdbManagedService.defs.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\AdbService\\AdbManagedService.defs.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\AdbService\\AdbManagedService.defs.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\AdbService\\AdbManagedService.defs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:01:45.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "ServiceCore.main.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\ServiceCore.main.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\ServiceCore.main.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\ServiceCore.main.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\ServiceCore.main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:03:24.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "logs.vue",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\logs.vue",
+              "RelativeDocumentMoniker": "telupstreamdmui\\src\\pages\\logs.vue",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\logs.vue",
+              "RelativeToolTip": "telupstreamdmui\\src\\pages\\logs.vue",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAADQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-12-25T07:37:04.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "task.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\EFCore\\Models\\task.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\EFCore\\Models\\task.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\EFCore\\Models\\task.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\EFCore\\Models\\task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T03:11:52.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\Program.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\Program.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:59:29.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Logger.main.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\Logger\\Logger.main.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\Logger\\Logger.main.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\Logger\\Logger.main.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\Logger\\Logger.main.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:32:30.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Logger.imp.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\Logger\\Logger.imp.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\Logger\\Logger.imp.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\Logger\\Logger.imp.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\Logger\\Logger.imp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:32:39.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Logger.defs.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\Logger\\Logger.defs.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\Logger\\Logger.defs.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\Logger\\Logger.defs.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\Logger\\Logger.defs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:32:48.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\WebAPI\\Controllers\\DeviceController.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\WebAPI\\Controllers\\DeviceController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T03:28:29.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "devices.vue",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\devices.vue",
+              "RelativeDocumentMoniker": "telupstreamdmui\\src\\pages\\devices.vue",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\devices.vue",
+              "RelativeToolTip": "telupstreamdmui\\src\\pages\\devices.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-12-25T06:42:15.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "headmenus.vue",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\headmenus.vue",
+              "RelativeDocumentMoniker": "telupstreamdmui\\src\\pages\\headmenus.vue",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\headmenus.vue",
+              "RelativeToolTip": "telupstreamdmui\\src\\pages\\headmenus.vue",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvykAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-12-25T08:32:02.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "globalsettings.js",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\components\\globalsettings.js",
+              "RelativeDocumentMoniker": "telupstreamdmui\\src\\components\\globalsettings.js",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\components\\globalsettings.js",
+              "RelativeToolTip": "telupstreamdmui\\src\\components\\globalsettings.js",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-25T08:32:21.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Controllers\\LogController.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\WebAPI\\Controllers\\LogController.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Controllers\\LogController.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\WebAPI\\Controllers\\LogController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T03:41:32.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "models_log.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Models\\models_log.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\WebAPI\\Models\\models_log.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Models\\models_log.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\WebAPI\\Models\\models_log.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T03:42:07.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\WebAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\WebAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:56:50.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "device.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\EFCore\\Models\\device.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\EFCore\\Models\\device.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\EFCore\\Models\\device.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\EFCore\\Models\\device.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T03:35:26.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "log.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\EFCore\\Models\\log.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\EFCore\\Models\\log.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\EFCore\\Models\\log.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\EFCore\\Models\\log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T03:47:53.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "models_task.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Models\\models_task.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\WebAPI\\Models\\models_task.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Models\\models_task.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\WebAPI\\Models\\models_task.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:57:50.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "MainContext.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\EFCore\\Contexts\\MainContext.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\EFCore\\Contexts\\MainContext.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\EFCore\\Contexts\\MainContext.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\EFCore\\Contexts\\MainContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T03:11:36.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:28:46.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "login.vue",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\login.vue",
+              "RelativeDocumentMoniker": "telupstreamdmui\\src\\pages\\login.vue",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\login.vue",
+              "RelativeToolTip": "telupstreamdmui\\src\\pages\\login.vue",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-12-25T08:32:19.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "main.js",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\main.js",
+              "RelativeDocumentMoniker": "telupstreamdmui\\src\\main.js",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\main.js",
+              "RelativeToolTip": "telupstreamdmui\\src\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-27T01:10:10.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "models_auth.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Models\\models_auth.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\WebAPI\\Models\\models_auth.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Models\\models_auth.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\WebAPI\\Models\\models_auth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:30:17.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "webapi_result.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Models\\webapi_result.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\WebAPI\\Models\\webapi_result.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Models\\webapi_result.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\WebAPI\\Models\\webapi_result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:23:01.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "models_device.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Models\\models_device.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\WebAPI\\Models\\models_device.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Models\\models_device.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\WebAPI\\Models\\models_device.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T03:30:21.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "SecurityProvider.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\Common\\SecurityProvider.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\Common\\SecurityProvider.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\Common\\SecurityProvider.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\Common\\SecurityProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:40:11.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "ServCore.defs.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\ServCore.defs.cs",
+              "RelativeDocumentMoniker": "TelupstreamAPI\\ServCore.defs.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\ServCore.defs.cs",
+              "RelativeToolTip": "TelupstreamAPI\\ServCore.defs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:39:12.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "TelupstreamDMUAPI\\WebAPI\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamDMUAPI\\WebAPI\\Controllers\\TestController.cs",
+              "RelativeToolTip": "TelupstreamDMUAPI\\WebAPI\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:22:17.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "settings.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\confs\\settings.cs",
+              "RelativeDocumentMoniker": "TelupstreamAPI\\confs\\settings.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\TelupstreamAPI\\confs\\settings.cs",
+              "RelativeToolTip": "TelupstreamAPI\\confs\\settings.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvwsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T03:16:14.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "sidemenus.vue",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\sidemenus.vue",
+              "RelativeDocumentMoniker": "telupstreamdmui\\src\\pages\\sidemenus.vue",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\sidemenus.vue",
+              "RelativeToolTip": "telupstreamdmui\\src\\pages\\sidemenus.vue",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-12-25T08:24:31.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "profile.vue",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\profile.vue",
+              "RelativeDocumentMoniker": "telupstreamdmui\\src\\pages\\profile.vue",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\profile.vue",
+              "RelativeToolTip": "telupstreamdmui\\src\\pages\\profile.vue",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowEUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-12-25T08:07:44.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "statistics.vue",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\statistics.vue",
+              "RelativeDocumentMoniker": "telupstreamdmui\\src\\pages\\statistics.vue",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\statistics.vue",
+              "RelativeToolTip": "telupstreamdmui\\src\\pages\\statistics.vue",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-12-25T08:04:22.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "console.vue",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\console.vue",
+              "RelativeDocumentMoniker": "telupstreamdmui\\src\\pages\\console.vue",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\pages\\console.vue",
+              "RelativeToolTip": "telupstreamdmui\\src\\pages\\console.vue",
+              "ViewState": "AQIAANQAAAAAAAAAAAAqwNoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-12-25T02:57:34.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "fstorage.ts",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\components\\fstorage.ts",
+              "RelativeDocumentMoniker": "telupstreamdmui\\src\\components\\fstorage.ts",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\components\\fstorage.ts",
+              "RelativeToolTip": "telupstreamdmui\\src\\components\\fstorage.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-25T09:20:03.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "common.css",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\assets\\common.css",
+              "RelativeDocumentMoniker": "telupstreamdmui\\src\\assets\\common.css",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\assets\\common.css",
+              "RelativeToolTip": "telupstreamdmui\\src\\assets\\common.css",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAswNwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-25T03:17:46.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\index.html",
+              "RelativeDocumentMoniker": "telupstreamdmui\\index.html",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\index.html",
+              "RelativeToolTip": "telupstreamdmui\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-25T02:58:01.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "App.vue",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\App.vue",
+              "RelativeDocumentMoniker": "telupstreamdmui\\src\\App.vue",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u8F6F\u4EF6\u7814\u53D1\\Telupstream\\telupstreamdmui\\src\\App.vue",
+              "RelativeToolTip": "telupstreamdmui\\src\\App.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-12-25T02:57:57.441Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1358,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

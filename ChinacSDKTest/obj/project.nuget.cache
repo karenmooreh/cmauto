@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mxSV9Q/kDWBHAGqD+8d0TjmIi+oaqAdSSdyxJgbMr2APa74plMlaTrPaXXCXJPjsUDkqt9QKfrcdNG1Jvgq4VQ==",
+  "success": true,
+  "projectFilePath": "D:\\工作\\软件研发\\Telupstream\\ChinacSDKTest\\ChinacSDKTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qiyon\\.nuget\\packages\\bouncycastle.netcore\\2.2.1\\bouncycastle.netcore.2.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

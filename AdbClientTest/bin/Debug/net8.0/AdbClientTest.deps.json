@@ -1,0 +1,117 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdbClientTest/1.0.0": {
+        "dependencies": {
+          "AdvancedSharpAdbClient": "3.3.13",
+          "Appium.WebDriver": "7.0.0"
+        },
+        "runtime": {
+          "AdbClientTest.dll": {}
+        }
+      },
+      "AdvancedSharpAdbClient/3.3.13": {
+        "runtime": {
+          "lib/net8.0/AdvancedSharpAdbClient.dll": {
+            "assemblyVersion": "3.3.13.0",
+            "fileVersion": "3.3.13.0"
+          }
+        }
+      },
+      "Appium.WebDriver/7.0.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.27.0",
+          "System.Drawing.Common": "8.0.10"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Appium.Net.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Win32.SystemEvents/8.0.0": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.27.0": {
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "System.Drawing.Common/8.0.10": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.1024.46803"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdbClientTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdvancedSharpAdbClient/3.3.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hD/P0KkJJylQX6Om31JmdZXNy4DyfyRPjBPSvqXIWiBzuKezXo89tD5Hw40ZgkfgfEIRcvN+xz3a8gEmLAUKJw==",
+      "path": "advancedsharpadbclient/3.3.13",
+      "hashPath": "advancedsharpadbclient.3.3.13.nupkg.sha512"
+    },
+    "Appium.WebDriver/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k8TINexEQF8Cn08AZGMjKMfwstxEDka5iTYSVkAOobY+HFEctgjY2Cw1MtRtllRrCAwIFEvpzzCE3aF+AcSA6A==",
+      "path": "appium.webdriver/7.0.0",
+      "hashPath": "appium.webdriver.7.0.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9opKRyOKMCi2xJ7Bj7kxtZ1r9vbzosMvRrdEhVhDz8j8MoBGgB+WmC94yH839NPH+BclAjtQ/pyagvi/8gDLkw==",
+      "path": "microsoft.win32.systemevents/8.0.0",
+      "hashPath": "microsoft.win32.systemevents.8.0.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.27.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bMIpqwpBfYLa1lh8gPVa6A1i9LeWNsfc2mR9why0DutEKI7ck3GVxzco1bB/8bv+7IA6rk4sR9WpZLRUnH/AAw==",
+      "path": "selenium.webdriver/4.27.0",
+      "hashPath": "selenium.webdriver.4.27.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/8.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MdajRp3P+FOlThgY6FBjAqnmLiVl5t2yWEC/2AsDMqx1zYbJG3G5TnscFBQ4obqcaGqvN5UnhQHSFaJFG2HftQ==",
+      "path": "system.drawing.common/8.0.10",
+      "hashPath": "system.drawing.common.8.0.10.nupkg.sha512"
+    }
+  }
+}

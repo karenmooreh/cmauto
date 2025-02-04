@@ -1,0 +1,58 @@
+﻿<Window x:Class="P03.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:P03"
+        mc:Ignorable="d"
+        Title="江苏权益订购-自动化接码薅羊毛" 
+        Loaded="Window_Loaded"
+        Height="800" MinHeight="800" Width="1580" MinWidth="1580">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <WrapPanel Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10,0">
+            <TextBlock Text="用户ID：" VerticalAlignment="Center"></TextBlock>
+            <TextBox x:Uid="CTL_USERID" Name="CTL_USERID" Width="80" Height="20" HorizontalContentAlignment="Center"></TextBox>
+            <TextBlock Text="商品ID：" VerticalAlignment="Center" Margin="20,0,10,0"></TextBlock>
+            <TextBox x:Uid="CTL_ITEMID" Name="CTL_ITEMID" Width="80" Height="20" HorizontalContentAlignment="Center"></TextBox>
+            <TextBlock Text="用户密钥：" VerticalAlignment="Center" Margin="20,0,10,0"></TextBlock>
+            <TextBox x:Uid="CTL_USERKEY" Name="CTL_USERKEY" Width="380" Height="20"></TextBox>
+            <TextBlock Text="并发限制：" VerticalAlignment="Center" Margin="20,0,10,0"></TextBlock>
+            <TextBox x:Uid="CTL_RUNLIMIT" Name="CTL_RUNLIMIT" Width="50" Height="20" Text="1" HorizontalContentAlignment="Center"></TextBox>
+        </WrapPanel>
+        <WrapPanel Grid.Row="0" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="10,0">
+            <TextBox x:Uid="CTL_PHONENUMSFILE" Name="CTL_PHONENUMSFILE" Width="280" Height="20" IsReadOnly="True"></TextBox>
+            <Button x:Uid="CTL_IMPORT" Name="CTL_IMPORT" Click="CTL_IMPORT_Click" Padding="10,0">
+                <TextBlock Text="导入号码文件" />
+            </Button>
+            <Button x:Uid="CTL_START" Name="CTL_START" Click="CTL_START_Click" Margin="20,0,0,0" Padding="10,0">
+                <TextBlock Text="启动任务" />
+            </Button>
+        </WrapPanel>
+        <ListView x:Uid="CTL_DATA" Name="CTL_DATA" Grid.Row="1" ItemsSource="{Binding}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="序号" DisplayMemberBinding="{Binding sn}" Width="150"/>
+                    <GridViewColumn Header="取号号码" DisplayMemberBinding="{Binding phonenum}" Width="150"/>
+                    <GridViewColumn Header="流水号" DisplayMemberBinding="{Binding serialno}" Width="150"/>
+                    <GridViewColumn Header="验证码" DisplayMemberBinding="{Binding code}" Width="100"/>
+                    <GridViewColumn Header="当前状态" DisplayMemberBinding="{Binding status}" Width="120"/>
+                    <GridViewColumn Header="日志信息" DisplayMemberBinding="{Binding log}" Width="500"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBlock x:Uid="CTL_LOG" Name="CTL_LOG" Grid.Row="2" VerticalAlignment="Center" Margin="15,0,0,0"></TextBlock>
+        <WrapPanel Grid.Row="2" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0">
+            <Button x:Uid="CTL_EXPORT" Name="CTL_EXPORT" Click="CTL_EXPORT_Click" Visibility="Collapsed">
+                <TextBlock Text=" 导出本次数据 "/>
+            </Button>
+            <Button x:Uid="Test" Name="Test" Click="Test_Click" Visibility="Collapsed">
+                <TextBlock Text="Test"/>
+            </Button>
+        </WrapPanel>
+    </Grid>
+</Window>

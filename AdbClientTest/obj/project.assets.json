@@ -1,0 +1,345 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AdvancedSharpAdbClient/3.3.13": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/AdvancedSharpAdbClient.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/AdvancedSharpAdbClient.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Appium.WebDriver/7.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Selenium.WebDriver": "4.27.0",
+          "System.Drawing.Common": "8.0.10"
+        },
+        "compile": {
+          "lib/netstandard2.0/Appium.Net.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Appium.Net.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Win32.SystemEvents/8.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.27.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Selenium.WebDriver.targets": {}
+        }
+      },
+      "System.Drawing.Common/8.0.10": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "8.0.0"
+        },
+        "compile": {
+          "lib/net8.0/System.Drawing.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/System.Drawing.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvancedSharpAdbClient/3.3.13": {
+      "sha512": "hD/P0KkJJylQX6Om31JmdZXNy4DyfyRPjBPSvqXIWiBzuKezXo89tD5Hw40ZgkfgfEIRcvN+xz3a8gEmLAUKJw==",
+      "type": "package",
+      "path": "advancedsharpadbclient/3.3.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "README.md",
+        "advancedsharpadbclient.3.3.13.nupkg.sha512",
+        "advancedsharpadbclient.nuspec",
+        "lib/net20/AdvancedSharpAdbClient.dll",
+        "lib/net20/AdvancedSharpAdbClient.xml",
+        "lib/net35/AdvancedSharpAdbClient.dll",
+        "lib/net35/AdvancedSharpAdbClient.xml",
+        "lib/net40/AdvancedSharpAdbClient.dll",
+        "lib/net40/AdvancedSharpAdbClient.xml",
+        "lib/net45/AdvancedSharpAdbClient.dll",
+        "lib/net45/AdvancedSharpAdbClient.xml",
+        "lib/net461/AdvancedSharpAdbClient.dll",
+        "lib/net461/AdvancedSharpAdbClient.xml",
+        "lib/net48/AdvancedSharpAdbClient.dll",
+        "lib/net48/AdvancedSharpAdbClient.xml",
+        "lib/net6.0-windows10.0.17763/AdvancedSharpAdbClient.dll",
+        "lib/net6.0-windows10.0.17763/AdvancedSharpAdbClient.xml",
+        "lib/net6.0/AdvancedSharpAdbClient.dll",
+        "lib/net6.0/AdvancedSharpAdbClient.xml",
+        "lib/net8.0-windows10.0.17763/AdvancedSharpAdbClient.dll",
+        "lib/net8.0-windows10.0.17763/AdvancedSharpAdbClient.xml",
+        "lib/net8.0/AdvancedSharpAdbClient.dll",
+        "lib/net8.0/AdvancedSharpAdbClient.xml",
+        "lib/netcore50/AdvancedSharpAdbClient.dll",
+        "lib/netcore50/AdvancedSharpAdbClient.xml",
+        "lib/netcoreapp2.1/AdvancedSharpAdbClient.dll",
+        "lib/netcoreapp2.1/AdvancedSharpAdbClient.xml",
+        "lib/netcoreapp3.1/AdvancedSharpAdbClient.dll",
+        "lib/netcoreapp3.1/AdvancedSharpAdbClient.xml",
+        "lib/netstandard1.3/AdvancedSharpAdbClient.dll",
+        "lib/netstandard1.3/AdvancedSharpAdbClient.xml",
+        "lib/netstandard2.0/AdvancedSharpAdbClient.dll",
+        "lib/netstandard2.0/AdvancedSharpAdbClient.xml",
+        "lib/netstandard2.1/AdvancedSharpAdbClient.dll",
+        "lib/netstandard2.1/AdvancedSharpAdbClient.xml",
+        "lib/uap10.0.15138/AdvancedSharpAdbClient.dll",
+        "lib/uap10.0.15138/AdvancedSharpAdbClient.pri",
+        "lib/uap10.0.15138/AdvancedSharpAdbClient.xml",
+        "lib/uap10.0/AdvancedSharpAdbClient.dll",
+        "lib/uap10.0/AdvancedSharpAdbClient.pri",
+        "lib/uap10.0/AdvancedSharpAdbClient.xml"
+      ]
+    },
+    "Appium.WebDriver/7.0.0": {
+      "sha512": "k8TINexEQF8Cn08AZGMjKMfwstxEDka5iTYSVkAOobY+HFEctgjY2Cw1MtRtllRrCAwIFEvpzzCE3aF+AcSA6A==",
+      "type": "package",
+      "path": "appium.webdriver/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "appium-icon.png",
+        "appium.webdriver.7.0.0.nupkg.sha512",
+        "appium.webdriver.nuspec",
+        "lib/netstandard2.0/Appium.Net.dll",
+        "lib/netstandard2.0/Appium.Net.xml"
+      ]
+    },
+    "Microsoft.Win32.SystemEvents/8.0.0": {
+      "sha512": "9opKRyOKMCi2xJ7Bj7kxtZ1r9vbzosMvRrdEhVhDz8j8MoBGgB+WmC94yH839NPH+BclAjtQ/pyagvi/8gDLkw==",
+      "type": "package",
+      "path": "microsoft.win32.systemevents/8.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Win32.SystemEvents.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Win32.SystemEvents.targets",
+        "lib/net462/Microsoft.Win32.SystemEvents.dll",
+        "lib/net462/Microsoft.Win32.SystemEvents.xml",
+        "lib/net6.0/Microsoft.Win32.SystemEvents.dll",
+        "lib/net6.0/Microsoft.Win32.SystemEvents.xml",
+        "lib/net7.0/Microsoft.Win32.SystemEvents.dll",
+        "lib/net7.0/Microsoft.Win32.SystemEvents.xml",
+        "lib/net8.0/Microsoft.Win32.SystemEvents.dll",
+        "lib/net8.0/Microsoft.Win32.SystemEvents.xml",
+        "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll",
+        "lib/netstandard2.0/Microsoft.Win32.SystemEvents.xml",
+        "microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+        "microsoft.win32.systemevents.nuspec",
+        "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll",
+        "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.xml",
+        "runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll",
+        "runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.xml",
+        "runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll",
+        "runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.xml",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Selenium.WebDriver/4.27.0": {
+      "sha512": "bMIpqwpBfYLa1lh8gPVa6A1i9LeWNsfc2mR9why0DutEKI7ck3GVxzco1bB/8bv+7IA6rk4sR9WpZLRUnH/AAw==",
+      "type": "package",
+      "path": "selenium.webdriver/4.27.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/Selenium.WebDriver.targets",
+        "buildTransitive/Selenium.WebDriver.targets",
+        "icon.png",
+        "lib/net8.0/WebDriver.dll",
+        "lib/net8.0/WebDriver.xml",
+        "lib/netstandard2.0/WebDriver.dll",
+        "lib/netstandard2.0/WebDriver.xml",
+        "manager/linux/selenium-manager",
+        "manager/macos/selenium-manager",
+        "manager/windows/selenium-manager.exe",
+        "selenium.webdriver.4.27.0.nupkg.sha512",
+        "selenium.webdriver.nuspec"
+      ]
+    },
+    "System.Drawing.Common/8.0.10": {
+      "sha512": "MdajRp3P+FOlThgY6FBjAqnmLiVl5t2yWEC/2AsDMqx1zYbJG3G5TnscFBQ4obqcaGqvN5UnhQHSFaJFG2HftQ==",
+      "type": "package",
+      "path": "system.drawing.common/8.0.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/System.Drawing.Common.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/System.Drawing.Common.targets",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net462/System.Drawing.Common.dll",
+        "lib/net462/System.Drawing.Common.pdb",
+        "lib/net462/System.Drawing.Common.xml",
+        "lib/net6.0/System.Drawing.Common.dll",
+        "lib/net6.0/System.Drawing.Common.pdb",
+        "lib/net6.0/System.Drawing.Common.xml",
+        "lib/net7.0/System.Drawing.Common.dll",
+        "lib/net7.0/System.Drawing.Common.pdb",
+        "lib/net7.0/System.Drawing.Common.xml",
+        "lib/net8.0/System.Drawing.Common.dll",
+        "lib/net8.0/System.Drawing.Common.pdb",
+        "lib/net8.0/System.Drawing.Common.xml",
+        "lib/netstandard2.0/System.Drawing.Common.dll",
+        "lib/netstandard2.0/System.Drawing.Common.pdb",
+        "lib/netstandard2.0/System.Drawing.Common.xml",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "system.drawing.common.8.0.10.nupkg.sha512",
+        "system.drawing.common.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AdvancedSharpAdbClient >= 3.3.13",
+      "Appium.WebDriver >= 7.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\qiyon\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\工作\\软件研发\\Telupstream\\AdbClientTest\\AdbClientTest.csproj",
+      "projectName": "AdbClientTest",
+      "projectPath": "D:\\工作\\软件研发\\Telupstream\\AdbClientTest\\AdbClientTest.csproj",
+      "packagesPath": "C:\\Users\\qiyon\\.nuget\\packages\\",
+      "outputPath": "D:\\工作\\软件研发\\Telupstream\\AdbClientTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\qiyon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "AdvancedSharpAdbClient": {
+            "target": "Package",
+            "version": "[3.3.13, )"
+          },
+          "Appium.WebDriver": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

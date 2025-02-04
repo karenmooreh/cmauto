@@ -1,0 +1,14 @@
+{
+  "efcore": {
+    "dbaddr": "127.0.0.1",
+    "dbname": "telupstream",
+    "dbuser": "telupstream",
+    "dbpasswd": "jfxPdfajfHzJRRkd"
+  }
+  "auths": [
+    {
+      "appid": "15c6f4a66cca4d96952b9e58527edb26",
+      "appkey": "a31a2f0aac07d62a947967c57d029782"
+    }
+  ]
+}

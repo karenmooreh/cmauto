@@ -1,0 +1,73 @@
+{
+  "log": {
+    "logLevel": "warning"
+  },
+
+  "dns": {
+    "servers": [
+      {
+        "address": "1.1.1.1",
+        "domains": [ "geosite:geolocation-!cn" ]
+      },
+      {
+        "address": "223.5.5.5",
+        "domains": [ "geosite:cn" ],
+        "expectIPs": [ "geoip:cn" ]
+      },
+      {
+        "address": "114.114.114.114",
+        "domains": [ "geosite:cn" ]
+      },
+      "localhost"
+    ]
+  },
+
+  "inbounds": [
+    {
+      "tag": "socks-in",
+      "protocol": "socks",
+      "listen": "127.0.0.1",
+      "port": 10000,
+      "settings": {
+        "udp": true
+      }
+    },
+    {
+      "tag": "http-in",
+      "protocol": "http",
+      "listen": "127.0.0.1",
+      "port": 20000
+    }
+  ],
+
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "socks",
+      "settings": {
+        "server": [
+          {
+            "address": "{$ob-serverip}",
+            "port": 12340,
+            "users": [
+              {
+                "user": "{$ob-user}",
+                "pass": "{$ob-pass}"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+
+  "routing": {
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [ "socks-in", "http-in" ],
+        "outboundTag": "proxy"
+      }
+    ]
+  }
+}

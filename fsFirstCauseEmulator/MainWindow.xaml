@@ -1,0 +1,73 @@
+﻿<Window x:Class="fsFirstCauseEmulator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:fsFirstCauseEmulator"
+        mc:Ignorable="d"
+        Title="MainWindow" 
+        WindowStartupLocation="CenterScreen"
+        Height="484" Width="720"
+        Loaded="Window_Loaded">
+    <Grid Margin="30">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="200"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <WrapPanel Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left">
+            <TextBlock Text="云端服务基础地址："/>
+        </WrapPanel>
+        <WrapPanel Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left">
+            <TextBlock Text="充值订单号："/>
+        </WrapPanel>
+        <WrapPanel Grid.Row="4" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left">
+            <TextBlock Text="充值手机号："/>
+        </WrapPanel>
+        <WrapPanel Grid.Row="6" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left">
+            <TextBlock Text="充值金额："/>
+        </WrapPanel>
+        <WrapPanel Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left">
+            <TextBox x:Uid="CTL_APIBASE" x:Name="CTL_APIBASE" Width="500" Height="30" VerticalContentAlignment="Center"
+                     Text="http://telupstream-api.mingshenggroup.cn/task/add"></TextBox>
+        </WrapPanel>
+        <WrapPanel Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left">
+            <TextBox x:Uid="CTL_BILLINGNO" x:Name="CTL_BILLINGNO" Width="500" Height="30" VerticalContentAlignment="Center"
+                     MouseDoubleClick="CTL_BILLINGNO_MouseDoubleClick"
+                     Text="20241229180353587"></TextBox>
+        </WrapPanel>
+        <WrapPanel Grid.Row="4" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left">
+            <TextBox x:Uid="CTL_PHONENUM" x:Name="CTL_PHONENUM" Width="500" Height="30" VerticalContentAlignment="Center"
+                     Text=""></TextBox>
+        </WrapPanel>
+        <WrapPanel Grid.Row="6" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left">
+            <ComboBox x:Uid="CTL_AMOUNT" x:Name="CTL_AMOUNT" IsEditable="True" Width="500" Height="30" SelectedIndex="0" VerticalContentAlignment="Center">
+                <ComboBoxItem Tag="10">1</ComboBoxItem>
+                <ComboBoxItem Tag="10">10</ComboBoxItem>
+                <ComboBoxItem Tag="10">30</ComboBoxItem>
+            </ComboBox>
+        </WrapPanel>
+        <WrapPanel Grid.Row="8" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left">
+            <Button x:Uid="CTL_BTNSUBMIT" x:Name="CTL_BTNSUBMIT" Width="500" Height="30" VerticalContentAlignment="Center"
+                    Click="CTL_BTNSUBMIT_Click">
+                <TextBlock Text="提交订单到云端接口"/>
+            </Button>
+        </WrapPanel>
+        <WrapPanel Grid.Row="10" Grid.Column="1">
+            <TextBox x:Uid="CTL_RESPONSE" x:Name="CTL_RESPONSE" IsManipulationEnabled="True" Height="200" Width="500"/>
+        </WrapPanel>
+    </Grid>
+</Window>

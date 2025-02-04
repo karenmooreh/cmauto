@@ -1,0 +1,47 @@
+{
+  "Enable": true,
+  "BaseSettings": {
+    "BindUrls": [
+      "http://*:12345"
+    ],
+    "StaticResources": {
+      "Enable": false,
+      "PhysicalPath": "",
+      "RequestRootPath": "/res"
+    },
+    "OpenAPI": {
+      "SwaggerSwitch": false,
+      "ShowLogging": true,
+      "Documents": [
+        {
+          "Name": "v1",
+          "Version": "v1",
+          "Title": "ONPWebAPI Service Documents",
+          "Description": "Open Network Platform Common WebAPI Service Component API Documents",
+          "TermsOfService": "https://google.com"
+        }
+      ],
+      "InjectionXmlCommentsFile": "",
+      "SecurityDefinitions": [
+        {
+          "Key": "bearerAuth",
+          "Description": "JWT授权（数据将在请求头中进行传递）直接在下面框中输入Bearer {token}(注意：两者之间室一个空格)",
+          "Name": "Authorization",
+          "BearerFormat": "JWT",
+          "Scheme": "bearer"
+        }
+      ]
+    },
+    "Cors": {
+      "Policy": "ISPWEBAPISERV-CORSPOLICY-ALLOWDOMAINS",
+      "TrustOrigins": [
+        "http://localhost:5173",
+        "http://localhost:5174"
+      ],
+      "ExpiresDays": 365,
+      "SecretKey": "0123456789ABCDEF",
+      "TokenIssuer": "ispwebapiserv.issuer",
+      "TokenAudience": "ispwebapiserv.audience"
+    }
+  }
+}

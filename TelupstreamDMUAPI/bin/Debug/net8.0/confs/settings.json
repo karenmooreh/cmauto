@@ -1,0 +1,17 @@
+{
+  "common": {
+    "datalist": {
+      "sizeperpage": 30
+    }
+  },
+  "adk": {
+    "adbpath": "C:\\Program Files\\Android\\adt-bundle-windows-x86_64-20140702\\sdk\\platform-tools\\adb.exe"
+  },
+  "storage": {
+    "dbpath": "D:\\工作\\软件研发\\Telupstream\\TelupstreamDMUAPI\\dmustorages.db"
+  },
+  "authorize": {
+    "signuser": "admin",
+    "signpassword": "21232f297a57a5a743894a0e4a801fc3"
+  }
+}

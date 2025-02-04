@@ -1,0 +1,27 @@
+{
+  "cloud": {
+    "getbillingsinterval": 60000,
+    "getbillingsblock": 10
+  },
+  "devices": {
+    "device1": {
+      "name": "A2501110001",
+      "serial": "103.36.207.226:302",
+      "paypwd": "122222",
+      "cloudimageid": "i-0t15bs1p0fh9c48g"
+    },
+    "device2": {
+      "name": "",
+      "serial": "",
+      "paypwd": "",
+      "cloudimageid": ""
+    }
+  },
+  "adb": {
+    "path": "C:\\Program Files\\Android\\adt-bundle-windows-x86_64-20140702\\sdk\\platform-tools\\adb.exe"
+  },
+  "chinac": {
+    "apikeyid": "228824e8a7604245a1f096afb498e077",
+    "apikeysecret": "6878a490d0d449998ed663f9ef52f6dc"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "fsLocalService": {
+      "commandName": "Project",
+      "commandLineArgs": "-pf confs/testphones1.txt -pp -fs 1.11"
+    }
+  }
+}
